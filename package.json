@@ -4,8 +4,8 @@
   "description": "",
   "main": "settings.js",
   "dependencies": {
-    "node-red-contrib-git-ui": "^0.1.10",
-    "node-red-contrib-chatbot": "^0.8.6"
+    "node-red-contrib-chatbot": "^0.8.6",
+    "node-red-contrib-git-ui": "^0.1.10"
   },
   "devDependencies": {},
   "scripts": {
