@@ -4,8 +4,6 @@
 # Dependency directories
 node_modules
 lib
-package.json
-settings.js
 
 #files
 .config.json
