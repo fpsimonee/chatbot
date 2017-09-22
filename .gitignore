@@ -8,5 +8,7 @@ lib
 #files
 .config.json
 .my_flows.json.backup
+package.json
+settings.js
 
 # End of https://www.gitignore.io/api/node
