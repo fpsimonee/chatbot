@@ -2,8 +2,8 @@
 # Created by https://www.gitignore.io/api/node
 
 # Dependency directories
-node_modules/
-lib/
+node_modules
+lib
 
 #files
 .config.json
